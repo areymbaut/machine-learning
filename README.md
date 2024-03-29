@@ -3,7 +3,7 @@
 This repository gathers code ressources related to machine learning.
 
 ## Reimplementations
-The `reimplementations` directory contains scripts that reimplements basic machine-learning algorithms and some neural networks from scratch (_i.e._, using non-machine-learning-specific libraries such as `numpy` or using basic functions from `torch`). Each reimplementation is accompanied by a short demonstration on simple datasets. Here are the algorithms that have been reimplemented:
+The `reimplementations` directory contains scripts that reimplement basic machine-learning algorithms and neural networks from scratch (_i.e._, using non-machine-learning-specific libraries such as `numpy` or using basic functions from `torch`). Each reimplementation is accompanied by a short demonstration on simple datasets. Here are the algorithms that have been reimplemented:
 - basic algorithms
   - linear and logistic regressions.
   - linear regression (using `torch`).
