@@ -6,7 +6,7 @@ This repository gathers code ressources related to machine learning.
 The `reimplementations` directory contains scripts that reimplements basic machine-learning algorithms and some neural networks from scratch (_i.e._, using non-machine-learning-specific libraries such as `numpy` or using basic functions from `torch`). Each reimplementation is accompanied by a short demonstration on simple datasets. Here are the algorithms that have been reimplemented:
 - basic algorithms
   - linear and logistic regressions.
-  - linear regression using `torch`.
+  - linear regression (using `torch`).
   - Naive Bayes classifier.
   - _k_-means classifier.
   - _k_ nearest neighbors (classifier and regressor).
@@ -17,6 +17,6 @@ The `reimplementations` directory contains scripts that reimplements basic machi
   - gradient-boosted trees (classifier and regressor).
   - single-layer perceptron classifier.
 - neural networks
-  - fully connected single-layer neural network using `torch`.
-  - convolutional neural network using `torch`.
-  - long short-term memory (LSTM) neural network using `torch`.
+  - fully connected single-layer neural network (using `torch`).
+  - convolutional neural network (using `torch`).
+  - long short-term memory (LSTM) neural network (using `torch`).
